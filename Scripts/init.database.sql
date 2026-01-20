@@ -1,3 +1,6 @@
+-- creating a databases and schemas
+
+
 -- create Database datawarehouse
 
 use master
